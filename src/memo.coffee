@@ -9,8 +9,8 @@
 #   
 #
 # Commands:
-#   wheatley memo <IRC_USER> <MESSAGE>
-#   wheatley memo me
+#   <robot_name> memo <IRC_USER> <MESSAGE>
+#   <robot_name> memo me
 #
 # Notes:
 #   None 
