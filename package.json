@@ -1,0 +1,25 @@
+{
+  "name": "hubot-memo",
+  "version": "0.0.1",
+  "description": "Hubot module to leave and retrieve short messages",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdodev/hubot-memo.git"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "keywords": [
+    "Hubot"
+  ],
+  "author": "Ruben Orduz (rdodev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdodev/hubot-memo/issues"
+  },
+  "homepage": "https://github.com/rdodev/hubot-memo"
+}
